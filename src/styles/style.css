@@ -1,0 +1,16 @@
+
+.container {
+    width: 1240px !important;
+    padding: 0 20px !important;
+    font-family: "Montserrat" !important;
+}
+
+.btn:hover {
+    background-color:#F5F5F5;
+    transition: 50ms;
+}
+.btn:active {
+    background-color: #299764;
+    color: white;
+    transition: 50ms;
+}
